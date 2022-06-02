@@ -2,4 +2,4 @@
 Website for spotting and writing the blogs.
 
 ## Based On
-HTML , CSS , Bootstrap , JavaScript , Node.js , Express.js , EJS
+HTML , CSS , Bootstrap , JavaScript , Node.js , Express.js , EJS , MongoDB and Mongoose
