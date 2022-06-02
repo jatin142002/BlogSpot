@@ -21,6 +21,7 @@ html {
 }
 
 .footer-padding {
+  margin-top: 25px;
   padding-bottom: 60px;
 }
 
@@ -36,5 +37,5 @@ html {
 .footer p {
   margin-top: 25px;
   font-size: 12px;
-  color: #fff;
+  color: black;
 }
